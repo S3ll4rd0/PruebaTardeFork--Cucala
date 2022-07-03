@@ -1,2 +1,2 @@
 # PruebaTarde
-Esto es una pruba para la clase de entornas
+Esto es una pruba para la clase de entornos de desarrollo
